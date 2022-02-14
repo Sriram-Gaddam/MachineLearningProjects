@@ -1,4 +1,7 @@
-# MachineLearningProjects
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/56180112/153965857-02e123be-4a04-49a0-ab12-fe0b6fa3ddbb.jpg" alt="Header Image" width=800/>
+</p>
+
 ## About
 This repository is a collection of machine learning projects in python from this [tutorial](https://www.techwithtim.net/tutorials/machine-learning-python/introduction/)
 
